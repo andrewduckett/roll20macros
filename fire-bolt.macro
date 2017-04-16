@@ -15,6 +15,6 @@
 {{attack_type=RANGED_SPELL_ATTACK}} 
 {{attack1=[[1d20@{Nhoxsis|spell_to_hit}]]}} 
 {{attack2=[[1d20@{Nhoxsis|spell_to_hit}]]}} 
-{{attack_damage=[[{1d10,2d1}kh1]] + [[{1d10,2d1}kh1]]}} 
-{{attack_damage_crit=[[{1d10,2d1}kh1]] + [[{1d10,2d1}kh1]]}} 
+{{attack_damage=@{Nhoxsis|D10} + @{Nhoxsis|D10}}} 
+{{attack_damage_crit=@{Nhoxsis|D10} + @{Nhoxsis|D10}}} 
 {{attack_damage_type=fire}}
