@@ -1,10 +1,32 @@
-&{template:5e-shaped} {{title=Fireball}} {{show_character_name=1}} {{character_name=Nhoxsis}} {{content=
-**Casting Time:** 1 action
-**Range:** 150 feet
-**Components:** VSM
-**Duration:** Instantaneous
-
-A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20 foot radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.  The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried. 
-
-At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
-}} {{saving_throw_dc=13}} {{saving_throw_vs_ability=Dexterity}} {{saving_throw_success=half damage}} ?{Spell Slot Level|Level 3, {{subheader=3rd-level Evocation&#125;&#125; {{damage=[[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]]&#125;&#125; |Level 4, {{subheader=4th-level Evocation&#125;&#125; {{damage=[[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]]&#125;&#125; |Level 5, {{subheader=5th-level Evocation&#125;&#125; {{damage=[[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]]&#125;&#125; |Level 6, {{subheader=6th-level Evocation&#125;&#125; {{damage=[[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]]&#125;&#125; |Level 7, {{subheader=7th-level Evocation&#125;&#125; {{damage=[[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]]&#125;&#125; |Level 8, {{subheader=8th-level Evocation&#125;&#125; {{damage=[[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]]&#125;&#125; |Level 9, {{subheader=9th-level Evocation&#125;&#125; {{damage=[[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]] + [[{1d6&#44;2+0d0&#125;kh1]]&#125;&#125;} {{damage_type=fire}}
+&{template:5e-shaped} 
+{{spell=1}} 
+{{spell_level=3rd-level}} 
+{{school=evocation}} 
+{{casting_time=1 action}} 
+{{range=150ft}} 
+{{components=V,S,M}} 
+{{duration=Instantaneous}} 
+{{title=Fireball}} 
+{{show_character_name=1}} 
+{{character_name=Nhoxsis}} 
+{{content=A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20 foot radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.  The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.}} 
+{{higher_level=When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.}} 
+{{attack_type=RANGED_SPELL_ATTACK}} 
+{{saving_throw_damage_type=fire}} 
+{{saving_throw_dc=@{Nhoxsis|spell_save_DC}}} 
+{{saving_throw_vs_ability=DEXTERITY}} 
+{{saving_throw_success=half damage}} ?{Spell Slot Level|Level 3, 
+{{cast_as_level=3&#125;&#125; 
+{{saving_throw_damage=@{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6}&#125;&#125; |Level 4, 
+{{cast_as_level=4&#125;&#125; 
+{{saving_throw_damage=@{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6}&#125;&#125; |Level 5, 
+{{cast_as_level=5&#125;&#125; 
+{{saving_throw_damage=@{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6}&#125;&#125; |Level 6, 
+{{cast_as_level=6&#125;&#125; 
+{{saving_throw_damage=@{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6}&#125;&#125; |Level 7, 
+{{cast_as_level=7&#125;&#125; 
+{{saving_throw_damage=@{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6}&#125;&#125; |Level 8, 
+{{cast_as_level=8&#125;&#125; 
+{{saving_throw_damage=@{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6}&#125;&#125; |Level 9, 
+{{cast_as_level=9&#125;&#125; 
+{{saving_throw_damage=@{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6} + @{Nhoxsis|D6}&#125;&#125;}
