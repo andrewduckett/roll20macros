@@ -13,9 +13,9 @@
 {{content=You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range. You choose acid, cold, **fire**, lightning, poison, or thunder for the type of orb you create, and then make a ranged spell attack against the target. If the attack hits, the creature takes 3d8 damage of the type you chose.}} 
 {{higher_level=When you cast this spell using a spell slot of 2nd level or higher, the damage incrases by 1d8 for each slot level above 1st.}} 
 {{attack_type=RANGED_SPELL_ATTACK}} 
+{{attack_damage_type=fire}} 
 {{attack1=[[1d20@{Nhoxsis|spell_to_hit}]]}} 
-{{attack2=[[1d20@{Nhoxsis|spell_to_hit}]]}} 
-{{damage_type=fire}} ?{Spell Slot Level|Level 1, 
+{{attack2=[[1d20@{Nhoxsis|spell_to_hit}]]}} ?{Spell Slot Level|Level 1, 
 {{cast_as_level=1&#125;&#125; 
 {{attack_damage=@{Nhoxsis|D8} + @{Nhoxsis|D8} + @{Nhoxsis|D8}&#125;&#125; 
 {{attack_damage_crit=@{Nhoxsis|D8} + @{Nhoxsis|D8} + @{Nhoxsis|D8}&#125;&#125; |Level 2, 
