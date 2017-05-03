@@ -1,0 +1,20 @@
+{&{template:5e-shaped} 
+{{title=Nhoxsis}} 
+{{subheader=Level @{Nhoxsis|sorcerer_level} @{Nhoxsis|race} Sorcerer (@{Nhoxsis|background}), @{Nhoxsis|alignment}}} 
+{{Armor Class=@{Nhoxsis|ac_armored_calc} (draconic resilience)}} 
+{{Hit Points=@{Nhoxsis|HP} (@{Nhoxsis|hit_die})}} 
+{{Speed=@{Nhoxsis|speed}}} 
+{{Initiative=@{Nhoxsis|initiative}}} 
+{{Abilities=@{Nhoxsis|ability_checks_macro_var}}} 
+{{Saving Throws=@{Nhoxsis|saving_throw_macro_var}}} 
+{{Skills=@{Nhoxsis|skills_macro_var}}} 
+{{Damage Resistance=@{Nhoxsis|damage_resistances}}} 
+{{Senses=darkvision (60ft)}} 
+{{Languages=@{Nhoxsis|languages}}} 
+{{Traits=@{Nhoxsis|traits_macro_var}}} 
+{{Features=@{Nhoxsis|classfeatures_macro_var}}} 
+{{Attacks=@{Nhoxsis|attacks_macro_var}}} 
+{{Cantrips=[Control Flames](!&#13;#Control-Flames)[Fire Bolt](!&#13;#Fire-Bolt)[Green-Flame Blade](!&#13;#Green-Flame-Blade)[Minor Illusion](!&#13;#Minor-Illusion)[Thaumaturgy](!&#13;#Thaumaturgy)}} 
+{{Level 1 Spells=[Chromatic Orb](!&#13;#Chromatic-Orb)[Hellish Rebuke](!&#13;#Hellish-Rebuke)[Shield](!&#13;#Shield)}} 
+{{Level 2 Spells=[Darkness](!&#13;#Darkness)[Misty Step](!&#13;#Misty-Step)[Scorching Ray](!&#13;#Scorching-Ray)}} 
+{{Level 3 Spells=[Fireball](!&#13;#Fireball)[Haste](!&#13;#Haste)[Scorching Ray](!&#13;#Scorching-Ray)}} 
