@@ -1,9 +1,0 @@
-{&{template:5e-shaped} 
-{{title=Flexible Casting}} 
-{{Creating Spell Slots=You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. You can create spell slots no higher in level than 5th. Any spell slot you create with this feature vanishes when you finish a long rest.}} 
-{{1st Level=2 Sorcery Points}}
-{{2nd Level=3 Sorcery Points}}
-{{3rd Level=5 Sorcery Points}}
-{{4th Level=6 Sorcery Points}}
-{{5th Level=7 Sorcery Points}}
-{{Converting a Spell Slot to Sorcery Points=As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.}}
