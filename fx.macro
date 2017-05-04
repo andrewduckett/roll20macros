@@ -1,1 +1,1 @@
-/fx ?{Type|Burn,burn|Burst,burst|Explosion,explode|Glow,glow|Nova,nova}-?{Color|Fire,fire|Slime,slime}
+/fx ?{Effect|Fireball,explode-fire|Green-Flame,bomb-acid|Buff,burn-death|Flame,burn-fire} @{target|token_id}
