@@ -1,0 +1,12 @@
+{&{template:5e-shaped} 
+{{title=Nhoxsis}}?{Type
+|Standard, 
+	{{subheader=Rolling 1d20&#125;&#125; 
+	{{roll1=1d20&#125;&#125;
+|Advantage, 
+	{{subheader=Rolling 1d20 with Advantage&#125;&#125; 
+	{{roll1=2d20kh1&#125;&#125;
+|Disadvantage, 
+	{{subheader=Rolling 1d20 with Disadvantage&#125;&#125; 
+	{{roll1=2d20kl1&#125;&#125;
+}
