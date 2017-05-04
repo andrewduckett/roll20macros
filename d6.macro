@@ -1,0 +1,33 @@
+{&{template:5e-shaped} 
+{{title=Nhoxsis}} ?{Number of Die
+|1, 
+	{{subheader=Rolling 1d6 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{Nhoxsis|d6_encoded}&#125;&#125;
+|2, 
+	{{subheader=Rolling 2d6 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded}&#125;&#125;
+|3, 
+	{{subheader=Rolling 3d6 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded}&#125;&#125;
+|4, 
+	{{subheader=Rolling 4d6 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded}&#125;&#125;
+|5, 
+	{{subheader=Rolling 5d6 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded}&#125;&#125;
+|6, 
+	{{subheader=Rolling 6d6 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded}&#125;&#125;
+|7, 
+	{{subheader=Rolling 7d6 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded}&#125;&#125;
+|8, 
+	{{subheader=Rolling 8d6 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded}&#125;&#125;
+|9, 
+	{{subheader=Rolling 9d6 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded}&#125;&#125;
+|10, 
+	{{subheader=Rolling 10d6 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded} + @{Nhoxsis|d6_encoded}&#125;&#125;
+}
