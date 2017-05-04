@@ -2,7 +2,7 @@
 {{title=Nhoxsis}} 
 {{subheader=Level @{Nhoxsis|sorcerer_level} @{Nhoxsis|race} Sorcerer (@{Nhoxsis|background}), @{Nhoxsis|alignment}}} 
 {{Armor Class=@{Nhoxsis|ac_armored_calc} (draconic resilience)}} 
-{{Hit Points=@{Nhoxsis|HP} (@{Nhoxsis|hit_die})}} 
+{{Hit Points=**@{Nhoxsis|HP}** / @{Nhoxsis|HP|max} (@{Nhoxsis|hit_die})}} 
 {{Speed=@{Nhoxsis|speed}}} 
 {{Initiative=@{Nhoxsis|initiative}}} 
 {{Abilities=@{Nhoxsis|ability_checks_macro_var}}} 
