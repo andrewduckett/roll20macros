@@ -1,9 +1,9 @@
 /w Nhoxsis {&{template:5e-shaped} 
 {{title=Nhoxsis}} 
 {{subheader=Level @{Nhoxsis|sorcerer_level} @{Nhoxsis|race} Sorcerer (@{Nhoxsis|background}), @{Nhoxsis|alignment}}} 
-{{Armor Class=@{Nhoxsis|ac_armored_calc} (draconic resilience)}} 
 {{Hit Points=**@{Nhoxsis|HP}** / @{Nhoxsis|HP|max} (@{Nhoxsis|hit_die})}} 
-{{Speed=@{Nhoxsis|speed}}} 
+{{Proficiency Bonus=@{Nhoxsis|PB}}} 
+{{Armor Class=@{Nhoxsis|ac_armored_calc} (Draconic Resilience)}} 
 {{Initiative=@{Nhoxsis|initiative}}} 
 {{Abilities=@{Nhoxsis|ability_checks_macro_var}}} 
 {{Saving Throws=@{Nhoxsis|saving_throw_macro_var}}} 
@@ -11,6 +11,8 @@
 {{Damage Resistance=@{Nhoxsis|damage_resistances}}} 
 {{Senses=darkvision (60ft)}} 
 {{Languages=@{Nhoxsis|languages}}} 
+{{Speed=@{Nhoxsis|speed}}} 
+{{Background=[Acolyte](!&#13;#Background)}} 
 {{Traits=@{Nhoxsis|traits_macro_var}}} 
 {{Features=@{Nhoxsis|classfeatures_macro_var}}} 
 {{Attacks=@{Nhoxsis|attacks_macro_var}}} 
