@@ -15,11 +15,12 @@
 {{attack1=[[1d20 + @{selected|finesse_mod} + @{selected|dexterity_mod}]]}} 
 {{attack2=[[1d20 + @{selected|finesse_mod} + @{selected|dexterity_mod}]]}} 
 {{attack_type=RANGED_SPELL_ATTACK}} 
+{{has_attack_damage=1}}
 {{attack_damage=[[1d4 + @{selected|finesse_mod}]]}} 
 {{attack_damage_crit=[[1d4 + @{selected|finesse_mod}]]}} 
 {{attack_damage_type=piercing}} 
-{{attack_second_damage=0}} 
-{{attack_second_damage_crit=0}} 
+{{attack_second_damage=[[0d0]]}} 
+{{attack_second_damage_crit=[[0d0]]}} 
 {{attack_second_damage_type=fire}} 
 {{other_damage=[[@{selected|d8} + @{selected|charisma_mod}]]}} 
 {{other_damage_crit=[[@{selected|d8} + @{selected|charisma_mod}]]}} 
