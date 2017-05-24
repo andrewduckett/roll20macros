@@ -1,0 +1,1 @@
+&{template:default} {{name=Spell Slots Remaining}} {{Level 1=(**@{selected|spell_slots_l1}**/@{selected|spell_slots_l1_calc})}} 
