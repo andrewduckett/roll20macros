@@ -1,13 +1,12 @@
-/w me {&{template:5e-shaped} 
+/w Andrew {&{template:5e-shaped} 
 {{title=@{selected|character_name}}} 
 {{subheader=Level @{selected|sorcerer_level} @{selected|race} Sorcerer (@{selected|background}), @{selected|alignment}}} 
-{{Hit Points=**@{selected|HP}** / @{selected|HP|max} (@{selected|hit_die})}} 
+{{Hit Points=**@{selected|HP}** / @{selected|HP|max} (@{selected|sorcerer_level}d6)}} 
 {{Proficiency Bonus=@{selected|PB}}} 
-{{Armor Class=@{selected|ac_armored_calc} (Draconic Resilience)}} 
+{{Armor Class=@{selected|AC} (Draconic Resilience)}} 
 {{Initiative=@{selected|initiative}}} 
 {{Abilities=@{selected|ability_checks_macro_var}}} 
 {{Saving Throws=@{selected|saving_throw_macro_var}}} 
-{{Skills=@{selected|skills_macro_var}}} 
 {{Damage Resistance=@{selected|damage_resistances}}} 
 {{Senses=darkvision (60ft)}} 
 {{Languages=@{selected|languages}}} 
