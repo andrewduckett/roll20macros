@@ -8,5 +8,5 @@
 {{duration=1 round}} 
 {{title=Shield}} 
 {{show_character_name=1}} 
-{{character_name=Nhoxsis}} 
+{{character_name=@{selected|character_name}}} 
 {{content=An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from the spell magic missile.}} 
