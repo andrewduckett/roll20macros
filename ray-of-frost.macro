@@ -1,0 +1,20 @@
+&{template:5e-shaped} 
+{{spell=1}} 
+{{spell_level=Cantrip}} 
+{{cast_as_level=0}}
+{{school=evocation}} 
+{{casting_time=1 action}} 
+{{range=60ft}} 
+{{components=V,S}} 
+{{duration=Instantaneous}} 
+{{title=Ray of Frost}} 
+{{show_character_name=1}} 
+{{character_name=@{selected|character_name}}} 
+{{content=A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.}} 
+{{higher_level=The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).}} 
+{{attack_type=RANGED_SPELL_ATTACK}} 
+{{attack1=[[1d20@{selected|spell_to_hit}]]}} 
+{{attack2=[[1d20@{selected|spell_to_hit}]]}} 
+{{attack_damage=[[@{selected|d8}]]}} 
+{{attack_damage_crit=[[@{selected|d10}]]}} 
+{{attack_damage_type=cold}}
