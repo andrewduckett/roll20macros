@@ -13,6 +13,8 @@
 {{content=You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of the point where the ice exploded must succeed on a Dexterity saving throw or take 2d6 cold damage.}} 
 {{higher_level=When you cast this spell using a spell slot of 2nd level or higher, the cold damage increases by 1d6 for each slot level above first.}} 
 {{attack_type=RANGED_SPELL_ATTACK}} 
+{{has_attack_damage=1}} 
+{{has_saving_throw_damage=1}} 
 {{attack_damage_type=piercing}} 
 {{attack1=[[1d20@{selected|spell_to_hit}]]}} 
 {{attack2=[[1d20@{selected|spell_to_hit}]]}} 
