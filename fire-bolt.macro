@@ -15,6 +15,6 @@
 {{attack_type=RANGED_SPELL_ATTACK}} 
 {{attack1=[[1d20@{selected|spell_to_hit}]]}} 
 {{attack2=[[1d20@{selected|spell_to_hit}]]}} 
-{{attack_damage=[[@{selected|d10} + @{selected|d10}]]}} 
-{{attack_damage_crit=[[@{selected|d10} + @{selected|d10}]]}} 
+{{attack_damage=[[@{selected|d10}]]}} 
+{{attack_damage_crit=[[@{selected|d10}]]}} 
 {{attack_damage_type=fire}}
