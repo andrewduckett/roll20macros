@@ -1,6 +1,6 @@
 /w Andrew {&{template:5e-shaped} 
 {{title=@{selected|character_name}}} 
-{{subheader=Level @{selected|sorcerer_level} @{selected|race} Sorcerer (@{selected|background}), @{selected|alignment}}} 
+{{subheader=Level @{selected|sorcerer_level} @{selected|race} Sorcerer (@{selected|alignment})}} 
 {{Hit Points=**@{selected|HP}** / @{selected|HP|max} (@{selected|sorcerer_level}d6)}} 
 {{Proficiency Bonus=@{selected|PB}}} 
 {{Armor Class=@{selected|AC} (Draconic Resilience)}} 
