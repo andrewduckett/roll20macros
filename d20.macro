@@ -1,5 +1,5 @@
 {&{template:5e-shaped} 
-{{title=Nhoxsis}}?{Type
+{{title=@{selected|character_name}}}?{Type
 |Standard, 
 	{{subheader=Rolling 1d20&#125;&#125; 
 	{{roll1=1d20&#125;&#125;
