@@ -1,33 +1,33 @@
 {&{template:5e-shaped} 
-{{title=Nhoxsis}} ?{Number of Die
+{{title=@{selected|character_name}}} ?{Number of Die
 |1, 
-	{{subheader=Rolling 1d4 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
-	{{roll1=@{Nhoxsis|d4_encoded}&#125;&#125;
+	{{subheader=Rolling 1d4 ([Elemental Adept](~selected&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{selected|d4_encoded}&#125;&#125;
 |2, 
-	{{subheader=Rolling 2d4 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
-	{{roll1=@{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded}&#125;&#125;
+	{{subheader=Rolling 2d4 ([Elemental Adept](~selected&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{selected|d4_encoded} + @{selected|d4_encoded}&#125;&#125;
 |3, 
-	{{subheader=Rolling 3d4 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
-	{{roll1=@{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded}&#125;&#125;
+	{{subheader=Rolling 3d4 ([Elemental Adept](~selected&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded}&#125;&#125;
 |4, 
-	{{subheader=Rolling 4d4 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
-	{{roll1=@{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded}&#125;&#125;
+	{{subheader=Rolling 4d4 ([Elemental Adept](~selected&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded}&#125;&#125;
 |5, 
-	{{subheader=Rolling 5d4 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
-	{{roll1=@{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded}&#125;&#125;
+	{{subheader=Rolling 5d4 ([Elemental Adept](~selected&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded}&#125;&#125;
 |6, 
-	{{subheader=Rolling 6d4 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
-	{{roll1=@{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded}&#125;&#125;
+	{{subheader=Rolling 6d4 ([Elemental Adept](~selected&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded}&#125;&#125;
 |7, 
-	{{subheader=Rolling 7d4 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
-	{{roll1=@{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded}&#125;&#125;
+	{{subheader=Rolling 7d4 ([Elemental Adept](~selected&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded}&#125;&#125;
 |8, 
-	{{subheader=Rolling 8d4 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
-	{{roll1=@{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded}&#125;&#125;
+	{{subheader=Rolling 8d4 ([Elemental Adept](~selected&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded}&#125;&#125;
 |9, 
-	{{subheader=Rolling 9d4 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
-	{{roll1=@{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded}&#125;&#125;
+	{{subheader=Rolling 9d4 ([Elemental Adept](~selected&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded}&#125;&#125;
 |10, 
-	{{subheader=Rolling 10d4 ([Elemental Adept](~Nhoxsis&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
-	{{roll1=@{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded} + @{Nhoxsis|d4_encoded}&#125;&#125;
+	{{subheader=Rolling 10d4 ([Elemental Adept](~selected&#124;repeating_trait_-KbDpNJJsPo98Ii1ABjR_trait))&#125;&#125; 
+	{{roll1=@{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded} + @{selected|d4_encoded}&#125;&#125;
 }
