@@ -9,12 +9,12 @@
 {{duration=Instantaneous}} 
 {{title=Fire Bolt}} 
 {{show_character_name=1}} 
-{{character_name=Nhoxsis}} 
+{{character_name=@{selected|character_name}}} 
 {{content=You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.}} 
 {{higher_level=This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).}} 
 {{attack_type=RANGED_SPELL_ATTACK}} 
-{{attack1=[[1d20@{Nhoxsis|spell_to_hit}]]}} 
-{{attack2=[[1d20@{Nhoxsis|spell_to_hit}]]}} 
-{{attack_damage=@{Nhoxsis|d10} + @{Nhoxsis|d10}}} 
-{{attack_damage_crit=@{Nhoxsis|d10} + @{Nhoxsis|d10}}} 
+{{attack1=[[1d20@{selected|spell_to_hit}]]}} 
+{{attack2=[[1d20@{selected|spell_to_hit}]]}} 
+{{attack_damage=[[@{selected|d10} + @{selected|d10}]]}} 
+{{attack_damage_crit=[[@{selected|d10} + @{selected|d10}]]}} 
 {{attack_damage_type=fire}}
