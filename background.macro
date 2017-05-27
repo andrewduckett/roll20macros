@@ -1,8 +1,8 @@
 {&{template:5e-shaped} 
 {{title=Background}} 
 {{show_character_name=1}} 
-{{character_name=@{selected|character_name}}} 
-{{Personality Traits=@{selected|personality_traits}}} 
-{{Ideals=@{selected|ideals}}} 
-{{Bonds=@{selected|bonds}}} 
-{{Flaws=@{selected|flaws}}} 
+{{character_name=@{character_name}}} 
+{{Personality Traits=@{personality_traits}}} 
+{{Ideals=@{ideals}}} 
+{{Bonds=@{bonds}}} 
+{{Flaws=@{flaws}}} 
