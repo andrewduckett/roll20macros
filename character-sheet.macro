@@ -1,6 +1,6 @@
 /w Andrew {&{template:5e-shaped} 
 {{title=@{selected|character_name}}} 
-{{subheader=Level @{selected|sorcerer_level} @{selected|race} Sorcerer (@{selected|alignment})}} 
+{{subheader=Level @{selected|sorcerer_level} @{selected|race} Sorcerer}} 
 {{Hit Points=**@{selected|HP}** / @{selected|HP|max} (@{selected|sorcerer_level}d6)}} 
 {{Proficiency Bonus=@{selected|PB}}} 
 {{Armor Class=@{selected|AC} (Draconic Resilience)}} 
@@ -11,8 +11,8 @@
 {{Senses=darkvision (60ft)}} 
 {{Languages=@{selected|languages}}} 
 {{Speed=@{selected|speed}}} 
-{{Background=[Criminal](!&#13;#Background)}} 
-{{Traits=@{selected|traits_macro_var}}} 
+{{Background=[Criminal (Fence)](!&#13;#Background)}} 
+{{Alignment=@{selected|alignment}}} 
 {{Features=@{selected|classfeatures_macro_var}}} 
 {{Attacks=@{selected|attacks_macro_var}}} 
 {{Cantrips=[Fire Bolt](!&#13;#Fire-Bolt), [Green-Flame Blade](!&#13;#Green-Flame-Blade), [Minor Illusion](!&#13;#Minor-Illusion), [Ray of Frost](!&#13;#Ray-of-Frost)}} 
