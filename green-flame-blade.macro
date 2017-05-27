@@ -19,6 +19,7 @@
 {{attack_damage=[[1d4 + @{selected|finesse_mod}]]}} 
 {{attack_damage_crit=[[1d4 + @{selected|finesse_mod}]]}} 
 {{attack_damage_type=piercing}} 
+{{attack_damage_macro=Hit:}} 
 {{attack_second_damage=[[0d0]]}} 
 {{attack_second_damage_crit=[[0d0]]}} 
 {{attack_second_damage_type=fire}} 
