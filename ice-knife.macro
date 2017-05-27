@@ -15,12 +15,14 @@
 {{attack_type=RANGED_SPELL_ATTACK}} 
 {{has_attack_damage=1}} 
 {{has_saving_throw_damage=1}} 
-{{attack_damage_type=piercing}} 
 {{attack1=[[1d20@{selected|spell_to_hit}]]}} 
 {{attack2=[[1d20@{selected|spell_to_hit}]]}} 
 {{attack_damage=[[@{selected|d10}]]}} 
 {{attack_damage_crit=[[@{selected|d10}]]}} 
+{{attack_damage_type=piercing}} 
+{{attack_damage_macro=Hit:}} 
 {{saving_throw_damage_type=cold}} 
+{{saving_throw_damage_macro=Saving throw failure:}} 
 {{saving_throw_dc=@{selected|spell_save_DC}}} 
 {{saving_throw_vs_ability=DEXTERITY}} 
 {{saving_throw_success=half damage}} ?{Spell Slot Level|Level 1, 
