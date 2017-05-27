@@ -15,6 +15,7 @@
 {{attack_type=RANGED_SPELL_ATTACK}} 
 {{has_attack_damage=RANGED_SPELL_ATTACK}} 
 {{attack_damage_type=fire}} 
+{{attack_damage_macro=Hit:}} 
 {{attack1=[[1d20@{selected|spell_to_hit}]]}} 
 {{attack2=[[1d20@{selected|spell_to_hit}]]}} ?{Spell Slot Level|Level 1, 
 {{cast_as_level=1&#125;&#125; 
