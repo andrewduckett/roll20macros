@@ -16,4 +16,4 @@
 {{Features=@{selected|classfeatures_macro_var}}} 
 {{Attacks=@{selected|attacks_macro_var}}} 
 {{Cantrips=[Fire Bolt](!&#13;#Fire-Bolt), [Green-Flame Blade](!&#13;#Green-Flame-Blade), [Minor Illusion](!&#13;#Minor-Illusion), [Ray of Frost](!&#13;#Ray-of-Frost)}} 
-{{Level 1 Spells=[Chromatic Orb](!&#13;#Chromatic-Orb), [Disguise Self](!&#13;#Disguise-Self), [Ice Knife](!&#13;#Ice-Knife), [Shield](!&#13;#Shield)}} 
+{{Level 1 Spells=[Chromatic Orb](!&#13;#Chromatic-Orb), [Disguise Self](!&#13;#Disguise-Self), [Ice Knife](!&#13;#Ice-Knife), [Shield](!&#13;#Shield)}}
