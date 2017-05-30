@@ -1,4 +1,7 @@
 /w Andrew {&{template:5e-shaped} 
+{{title=Actions}} 
+{{show_character_name=1}} 
+{{character_name=@{character_name}}} 
 {{Attacks=@{attacks_macro_var}}} 
 {{Cantrips=[Fire Bolt](~Fire-Bolt), [Green-Flame Blade](~Green-Flame-Blade), [Minor Illusion](~Minor-Illusion), [Ray of Frost](~Ray-of-Frost)}} 
 {{Level 1 Spells=[Chromatic Orb](~Chromatic-Orb), [Disguise Self](~Disguise-Self), [Ice Knife](~Ice-Knife), [Shield](~Shield)}}
