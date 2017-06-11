@@ -9,6 +9,6 @@
 {{Saving Throws=@{saving_throw_macro_var}}} 
 {{Skills=@{skills_macro_var}}} 
 {{Damage Resistance=@{damage_resistances}}} 
-{{Senses=@{senses}}} 
+{{Senses=@{senses_string}}} 
 {{Languages=@{languages}}} 
 {{Class Features=@{classfeatures_macro_var}, [Metamagic](~Metamagic)}}
