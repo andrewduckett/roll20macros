@@ -1,0 +1,5 @@
+{&{template:5e-shaped} 
+{{title=Subtle Spell}} 
+{{show_character_name=1}} 
+{{character_name=@{character_name}}} 
+{{content=When you Cast a Spell, you can spend 1 sorcery point to cast it without any somatic or verbal Components.}}
