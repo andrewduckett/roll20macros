@@ -1,7 +1,6 @@
 &{template:5e-shaped} 
 {{spell=1}} 
 {{spell_level=cantrip}} 
-{{cast_as_level=0}}
 {{school=necromancy}} 
 {{casting_time=1 action}} 
 {{range=120 feet}} 
