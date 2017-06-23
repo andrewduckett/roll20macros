@@ -12,5 +12,5 @@
 {{Languages=@{languages}}} 
 {{Class Features=@{classfeatures_macro_var}}} 
 {{Attacks=@{attacks_macro_var}}} 
-{{Cantrips=[Chill Touch](~Chill-Touch), [Minor Illusion](~Minor-Illusion)}} 
-{{1st Level=[Charm Person](~Charm-Person), [Comprehend Languages](~Comprehend-Languages), [Faerie Fire](~Faerie-Fire)}} 
+{{Cantrips=@{spells_level_0_macro_var}}} 
+{{1st Level=@{spells_level_1_macro_var}}} 
