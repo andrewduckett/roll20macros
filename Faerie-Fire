@@ -1,0 +1,12 @@
+{&{template:5e-shaped} 
+{{spell=1}} 
+{{spell_level=1st-level}} 
+{{school=evocation}} 
+{{casting_time=1 action}} 
+{{range=60 feet}} 
+{{components=V}} 
+{{duration=Concentration, up to 1 minute}} 
+{{title=Faerie Fire}} 
+{{show_character_name=1}} 
+{{character_name=@{character_name}}} 
+{{content=Each object in a 20-foot cube within range is outlined by blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius. Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible.}} 
