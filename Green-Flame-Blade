@@ -20,9 +20,9 @@
 {{attack_damage_crit=[[1d4 + @{finesse_mod}]]}} 
 {{attack_damage_type=piercing}} 
 {{attack_damage_macro=Hit:}} 
-{{attack_second_damage=[[0d0]]}} 
-{{attack_second_damage_crit=[[0d0]]}} 
+{{attack_second_damage=[[@{d8_cantrip}]]}} 
+{{attack_second_damage_crit=[[@{d8_cantrip}]]}} 
 {{attack_second_damage_type=fire}} 
-{{other_damage=[[@{d8} + @{charisma_mod}]]}} 
-{{other_damage_crit=[[@{d8} + @{charisma_mod}]]}} 
+{{other_damage=[[@{d8_cantrip} + @{charisma_mod}]]}} 
+{{other_damage_crit=[[@{d8_cantrip} + @{charisma_mod}]]}} 
 {{other_damage_type=fire}}
