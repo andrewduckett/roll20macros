@@ -1,0 +1,6 @@
+{&{template:5e-shaped} 
+{{title=Eldritch Invocations}} 
+{{show_character_name=1}} 
+{{character_name=@{character_name}}} 
+{{Eldritch Sight=You can cast **detect magic** at will, without expending a spell slot.}} 
+{{Mask of Many Faces=You can cast **disguise self** at will, without expending a spell slot.}} 
