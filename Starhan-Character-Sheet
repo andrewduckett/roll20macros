@@ -8,7 +8,9 @@
 {{Abilities=[Str @{strength} (@{strength_mod_with_sign})](~shaped_strength_check), [Dex @{dexterity} (@{dexterity_mod_with_sign})](~shaped_dexterity_check), [Con @{constitution} (@{constitution_mod_with_sign})](~shaped_constitution_check), [Int @{intelligence} (@{intelligence_mod_with_sign})](~shaped_intelligence_check), [Wis @{wisdom} (@{wisdom_mod_with_sign})](~shaped_wisdom_check), [Cha @{charisma} (@{charisma_mod_with_sign})](~shaped_charisma_check)}} 
 {{Saving Throws=@{saving_throw_macro_var}}} 
 {{Skills=@{skills_macro_var}}} 
-{{Damage Resistance=@{damage_resistances}}} 
 {{Senses=@{senses_string}}} 
 {{Languages=@{languages}}} 
-{{Class Features=@{classfeatures_macro_var}}}
+{{Class Features=@{classfeatures_macro_var}}} 
+{{Attacks=}} 
+{{Cantrips=}} 
+{{1st Level=}} 
