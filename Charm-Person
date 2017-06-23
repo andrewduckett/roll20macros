@@ -1,0 +1,13 @@
+{&{template:5e-shaped} 
+{{spell=1}} 
+{{spell_level=1st-level}} 
+{{school=enchantment}} 
+{{casting_time=1 action}} 
+{{range=30 feet}} 
+{{components=V, S}} 
+{{duration=1 hour}} 
+{{title=Charm Person}} 
+{{show_character_name=1}} 
+{{character_name=@{character_name}}} 
+{{content=You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails it is charmed by you until the spell ends or until you or your companions do something harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends it knows it has been charmed.}} 
+{{higher_level=When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.They must be within 30ft of each other when you target them.}} 
