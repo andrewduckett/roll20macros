@@ -11,4 +11,4 @@
 {{Damage Resistance=@{damage_resistances}}} 
 {{Senses=@{senses_string}}} 
 {{Languages=@{languages}}} 
-{{Class Features=@{classfeatures_macro_var}, [Metamagic](~Metamagic)}}
+{{Class Features=@{classfeatures_macro_var}}}
