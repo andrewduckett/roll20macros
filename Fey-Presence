@@ -1,0 +1,10 @@
+{&{template:5e-shaped} 
+{{trait=1}} 
+{{range=10 feet}} 
+{{duration=End of Next Turn}} 
+{{title=Fey Presense}} 
+{{show_character_name=1}} 
+{{character_name=@{character_name}}} 
+{{saving_throw_vs_ability=WISDOM}} 
+{{saving_throw_dc=@{spell_save_DC}}} 
+{{content=As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all charmed or frightened by you (your choice) until the end of your next turn.}} 
