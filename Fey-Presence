@@ -1,5 +1,5 @@
 {&{template:5e-shaped} 
-{{trait=1}} 
+{{action=1}} 
 {{range=10 feet}} 
 {{duration=End of Next Turn}} 
 {{title=Fey Presense}} 
