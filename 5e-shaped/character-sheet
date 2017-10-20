@@ -1,0 +1,16 @@
+/w "Andrew D." {&{template:5e-shaped} 
+{{title=@{character_name}}} 
+{{subheader=@{class_and_level} (@{xp} / @{xp_next_level} @{background} (@{alignment})}} 
+{{Armor Class=@{AC}}} 
+{{Initiative=[@{initiative}](~shaped_initiative)}} 
+{{Speed=@{speed}}} 
+{{Abilities=[Strength @{strength} (@{strength_mod_with_sign})](~shaped_strength_check), [Dexterity @{dexterity} (@{dexterity_mod_with_sign})](~shaped_dexterity_check), [Constitution @{constitution} (@{constitution_mod_with_sign})](~shaped_constitution_check), [Intelligence @{intelligence} (@{intelligence_mod_with_sign})](~shaped_intelligence_check), [Wisdom @{wisdom} (@{wisdom_mod_with_sign})](~shaped_wisdom_check), [Charisma @{charisma} (@{charisma_mod_with_sign})](~shaped_charisma_check)}} 
+{{Saving Throws=@{saving_throw_macro_var}}} 
+{{Skills=@{skills_macro_var}}} 
+{{Senses=@{senses_string}}} 
+{{Languages=@{languages}}} 
+{{Class Features=@{classfeatures_macro_var}}} 
+{{Attacks=@{offense_macro_var}}} 
+{{Cantrips=@{spells_level_0_macro_var}}} 
+{{1st Level=@{spells_level_1_macro_var}}} 
+{{2nd Level=@{spells_level_2_macro_var}}} 
