@@ -1,6 +1,7 @@
 /w "Andrew D." {&{template:5e-shaped} 
 {{title=@{character_name}}} 
-{{subheader=@{class_and_level} (@{xp} / @{xp_next_level} @{background} (@{alignment})}} 
+{{subheader=@{class_and_level} (@{xp} / @{xp_next_level})}} 
+{{Background=@{background} (@{alignment})}} 
 {{Armor Class=@{AC}}} 
 {{Initiative=[@{initiative}](~shaped_initiative)}} 
 {{Speed=@{speed}}} 
@@ -13,4 +14,4 @@
 {{Attacks=@{offense_macro_var}}} 
 {{Cantrips=@{spells_level_0_macro_var}}} 
 {{1st Level=@{spells_level_1_macro_var}}} 
-{{2nd Level=@{spells_level_2_macro_var}}} 
+{{2nd Level=@{spells_level_2_macro_var}}}
