@@ -1,0 +1,15 @@
+{&{template:5e-shaped} 
+{{title=@{character_name}}}?{Type|Standard, 
+{{subheader=Rolling 1d20&#125;&#125; 
+{{action=1&#125;&#125; 
+{{roll1=[[1d20]]&#125;&#125; |Advantage, 
+{{subheader=Rolling 1d20 with Advantage&#125;&#125; 
+{{action=1&#125;&#125; 
+{{roll1=[[1d20]]&#125;&#125; 
+{{roll2=[[1d20]]&#125;&#125; 
+{{2d20kh1=1&#125;&#125; |Disadvantage, 
+{{subheader=Rolling 1d20 with Disadvantage&#125;&#125; 
+{{action=1&#125;&#125; 
+{{roll1=[[1d20]]&#125;&#125; 
+{{roll2=[[1d20]]&#125;&#125; 
+{{2d20kl1=1&#125;&#125; }
