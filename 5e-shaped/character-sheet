@@ -11,6 +11,8 @@
 {{Senses=@{senses_string}}} 
 {{Languages=@{languages}}} 
 {{Class Features=@{classfeatures_macro_var}}} 
+{{Feats=@{feats_macro_var}}} 
+{{Traits=@{traits_macro_var}}} 
 {{Attacks=@{offense_macro_var}}} 
 {{Cantrips=@{spells_level_0_macro_var}}} 
 {{1st Level=@{spells_level_1_macro_var}}} 
